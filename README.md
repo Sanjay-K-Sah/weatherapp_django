@@ -2,6 +2,7 @@
 I have developed this weather app using Django and easy to understand by beginners.
 
 Create a folder.
+
 Install virtual environment to your system.
 (Use this command: pip install virtualenv)
 
@@ -29,3 +30,5 @@ Create two files in newly created folder to write code.
 
 Then, run your server.
 (Use this command: python manage.py runserver) 
+
+HAPPY CODING!
