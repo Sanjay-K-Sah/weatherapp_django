@@ -13,7 +13,7 @@ I have developed this weather app using Django and easy to understand by beginne
 
 6. Use this command to start your project.(Use this command: django-admin startproject YourProjectName)
 
-7. Use this command to startapp.(Use this command: python manage.py startapp YourAppName)
+7. Use this command to startapp.(Use this command: django-admin startapp YourAppName)
 
 8. Make a urls.py file in YourAppName folder.
 
